@@ -1,7 +1,7 @@
 # This file is used for convenience of local development.
 # DO NOT STORE YOUR CREDENTIALS INTO GIT
-export POSTGRES_USERNAME=mvrkrishna
-export POSTGRES_PASSWORD=ishaanarkaan
+export POSTGRES_USERNAME=xxxx
+export POSTGRES_PASSWORD=xxxxx
 export POSTGRES_HOST=database-module4.czjwdnvtw3qh.us-east-2.rds.amazonaws.com
 export POSTGRES_DB=postgres
 export AWS_BUCKET=krishna-uda-module-4 
